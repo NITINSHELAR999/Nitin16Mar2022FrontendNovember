@@ -1,0 +1,13 @@
+Q4) How to create objects in JavaScript?
+
+Ans-
+There are 3 ways to create an object in JavaScript.
+
+By object literal
+By creating an instance of Object
+By Object Constructor
+
+
+Let's see a simple code to create an object using object literal.
+
+emp={id:102,name:"Rahul Kumar",salary:50000}   

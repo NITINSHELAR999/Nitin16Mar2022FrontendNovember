@@ -1,0 +1,7 @@
+Q3) How to write normal text code using JavaScript dynamically?
+
+Ans-
+The innerText property is used to write the simple text using JavaScript dynamically. 
+
+Let's see a simple example:
+document.getElementById('mylocation').innerText="This is text using JavaScript";  

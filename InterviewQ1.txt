@@ -1,0 +1,4 @@
+Q1)What is the difference between == and ===?
+
+Ans-
+        The == operator checks equality only whereas === checks equality, and data type, i.e., a value must be of the same type.
